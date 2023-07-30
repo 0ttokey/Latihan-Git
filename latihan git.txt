@@ -1,4 +1,4 @@
 latihan git
 mengedit file di github
 menghapus baris
-membuat branch 1
+membuat konflik antara branch 1 dengan 2
