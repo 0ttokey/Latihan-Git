@@ -1,2 +1,3 @@
 latihan git
 mengedit file di github
+hapus
